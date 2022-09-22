@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://klara367.github.io/QR-code-component/](https://klara367.github.io/QR-code-component/)
 
 
 ### Built with
@@ -27,4 +27,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@klara367](https://www.frontendmentor.io/profile/klara367))
+- Frontend Mentor - [@klara367](https://www.frontendmentor.io/profile/klara367)
