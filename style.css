@@ -58,11 +58,3 @@ p {
     margin-inline: 1.875rem;
     margin-bottom: 2.49rem;
 }
-
-/****** Mobile-design ******/
-
-@media only screen and (max-width: 375px){
-    body {
-        max-width: 375px;
-    }
-}
