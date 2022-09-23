@@ -26,7 +26,7 @@ body {
 }
 
 main {
-    max-width: 320px;
+    max-width: 20rem;
     background-color: var(--white);
     border-radius: 0.938rem;
     box-shadow: 0 0.7rem 2rem var(--box-shadow);
@@ -34,8 +34,8 @@ main {
 
 /****** QR-code-styling ******/
 
-.qr-code img {
-    max-width: 290px;
+img {
+    max-width: 18.125rem;
     border-radius: 0.625rem;
     margin-top: 0.938rem;
 }
